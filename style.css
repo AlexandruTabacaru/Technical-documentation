@@ -1,0 +1,4 @@
+header {font-size: 25px;}
+nav{position:fixed;}
+#teletext {margin-left: 360px;}
+@media (max-height:800px) {main{font-family:Helvetica;}}
